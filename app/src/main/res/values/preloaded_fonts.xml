@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/great_vibes</item>
+        <item>@font/quintessential</item>
+        <item>@font/roboto_bold_italic</item>
+        <item>@font/roboto_medium_italic</item>
+    </array>
+</resources>
